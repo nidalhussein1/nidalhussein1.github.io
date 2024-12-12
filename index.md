@@ -14,7 +14,8 @@ My GitHub page is http://github.com/nidalhussein1.
     such as addition and subtraction into code. The lab was a tool of which
     you enter two dates and it calculates the difference between the two.
     It's a helpful tool if you have two dates with long distances between.
-    
+
+
 * Lab 4
 
     Lab 4, part 1 was a favorite because it further taught me how to interpert
@@ -23,6 +24,7 @@ My GitHub page is http://github.com/nidalhussein1.
     any value of Ml and it would return the number of Ml in the other types of
     measurments which I thought was pretty cool.
 
+
 * Lab 7
 
     Lab 7, part 1 was a favorite because I liked the concept of the assignment.
@@ -30,4 +32,6 @@ My GitHub page is http://github.com/nidalhussein1.
     be told if parking was allowed or not. It also taught me the difference
     between "and" and "or" which was important because "or" means one of the
     options and "and" could mean all.
+
+    ![I love cars and going to car meets with friends.](images/cars.jpg)
 
