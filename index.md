@@ -33,23 +33,22 @@ My GitHub page is http://github.com/nidalhussein1.
     between "and" and "or" which was important because "or" means one of the
     options and "and" could mean all.
 
-#
+_______________________________________________________________________________________________________________
 
 ### Things I Like
 
 * I love cars and going to car meets with friends.
-![I love cars and going to car meets with friends.](images/cars.jpg)
+    ![I love cars and going to car meets with friends.](images/cars.jpg)
 
 
 
-#
 * I like trying new food and going out with family or friends.
-![In N Out Burger](images/burger.jpeg)
+    ![In N Out Burger](images/burger.jpeg)
 
 
-#
+
 * I like technology and computers. Fixing them or trying somthing new with
 them is always something I find fun and entertaining.
-![Technology Picture](images/tech.png)
+    ![Technology Picture](images/tech.png)
 
 
